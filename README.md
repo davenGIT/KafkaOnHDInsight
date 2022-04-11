@@ -1,1 +1,1 @@
-# Kafka-Spark strewaming On HDInsight
+# Kafka-Spark streaming On HDInsight
